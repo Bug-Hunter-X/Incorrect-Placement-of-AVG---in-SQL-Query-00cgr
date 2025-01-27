@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common error in SQL queries involving the use of aggregate functions like AVG(). The original query attempts to filter employees based on whether their salary is greater than the average salary but incorrectly places the AVG() function, leading to an error. The solution provides the correct implementation using a subquery.
